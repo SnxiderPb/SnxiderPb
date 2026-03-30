@@ -43,24 +43,32 @@
 
 ---
 
-<!-- STATS -->
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuncvinod&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
+
+<img src="https://img.shields.io/badge/Repositorios-Activos-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Commits-Constantes-green?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Enfoque-FullStack-purple?style=for-the-badge&logo=code"/>
+<img src="https://img.shields.io/badge/Estado-Aprendiendo-red?style=for-the-badge&logo=book"/>
+
 </p>
 
 ---
 
-<!-- TROPHY -->
 ## 🏆 Logros
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
----
+<img src="https://img.shields.io/badge/Proyecto-PLOMAPP-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SENA-Estudiante-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Base%20de%20Datos-MySQL%20%7C%20MongoDB-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-yellow?style=for-the-badge"/>
+
+</p>
 
 <!-- SOCIAL -->
 ## 🌐 Conecta conmigo
