@@ -1,30 +1,74 @@
-<h1 align="center">
-  Hola 👋 Bienvenido a mi repositorio
-</h1>
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arjun C Vinod</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>  
+    
+    
+<!-- HEADER -->
+<h1 align="center">👋 Hola, soy Kevin Pinzón</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6FDA44&size=28&center=true&vCenter=true&width=500&lines=Web+Developer;Computer+Science+Student;Freelancer;Open+Source+Enthusiast" />
+  💻 Desarrollador Web | 🎓 Estudiante de Software | 🚀 Freelancer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=25&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+GitHub;Construyendo+proyectos+reales;Aprendiendo+cada+día" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+<!-- ABOUT -->
+## 🧑‍💻 Sobre mí
 
-<img align="right" width="300" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+<img align="right" width="260" src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
 
 - 🔭 Actualmente trabajando en **PLOMAPP**
-- 🌱 Aprendiendo **React.js**
-- 💬 Pregúntame sobre **Node.js, MongoDB, PHP, MySQL**
-- 📫 Contacto: **Sneiderpinzon1310@gmail.com**
-- ⚡ Dato curioso: *Mi primera línea de código no fue "Hola Mundo"*
+- 🌱 Aprendiendo **React.js y desarrollo moderno**
+- 💬 Manejo **Node.js, PHP, MongoDB, MySQL**
+- 🎯 Enfocado en crecer como **Full Stack Developer**
+- 📫 **Sneiderpinzon1310@gmail.com**
 
 <br clear="both">
 
 ---
 
-## 🌐 Redes Sociales
+<!-- SKILLS -->
+## 🚀 Tecnologías
 
 <p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,mongodb,mysql,java,python,linux,figma" />
+
+</p>
+
+---
+
+<!-- STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuncvinod&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
+</p>
+
+---
+
+<!-- TROPHY -->
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<!-- SOCIAL -->
+## 🌐 Conecta conmigo
+
+<p align="center">
+
 <a href="https://www.facebook.com/stiwarandres.pinzon">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
@@ -32,46 +76,12 @@
 <a href="https://www.instagram.com/snxider_pb">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 🧠 Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+<!-- FOOTER -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&theme=tokyonight" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjuncvinod&layout=compact&theme=tokyonight" width="300"/>
-</p>
-
----
-
-## 🏆 Logros
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-<p align="center">
-✨ Gracias por visitar mi perfil ✨
+  ⭐ Proximamente Ing En Sotfware ⭐
 </p>
